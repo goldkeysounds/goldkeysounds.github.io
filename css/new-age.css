@@ -408,10 +408,18 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background: linear-gradient(#181515, #272727);
 }
 
-.goldkeylogo {
-  max-width: 100%
-  height: auto;
-  width: auto;
+#banner{
+    max-width: 100%;
+    height: auto;
+    left: 0px;
+    right: 0px;
+}
+
+#goldkeylogo{
+    width: 100%;
+    height: auto;
+    left: 0px;
+    right: 0px;
 }
 
 .text-primary {
